@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-407-fix-example-gate-chess-set-vk-behind-an-admin",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-407-fix-example-gate-chess-set-vk-behind-an-admin": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-407-fix-example-gate-chess-set-vk-behind-an-admin",
+    "origin"
+  ]
+}
